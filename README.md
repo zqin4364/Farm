@@ -1,6 +1,1 @@
-<pre>
-"""
-## Project Struct
- Farm/ ├── FarmEnv/ │ ├── algorithm/ │ │ ├── utils/ │ │ │ └── __init__.py │ │ └── ppo.py │ ├── envs/ │ │ ├── utils/ │ │ │ └── __init__.py │ │ ├── config.py │ │ ├── core.py │ │ └── wrapper.py ├── result/ ├── train/ ├── utils/ │ ├── __init__.py │ └── config.py ├── requirements.txt └── test.py    
-"""
-</pre>
+<pre> ``` Farm/ ├── FarmEnv/ │ ├── algorithm/ │ │ ├── utils/ │ │ │ └── __init__.py │ │ └── ppo.py │ ├── envs/ │ │ ├── utils/ │ │ │ └── __init__.py │ │ ├── config.py │ │ ├── core.py │ │ └── wrapper.py ├── result/ ├── train/ ├── utils/ │ ├── __init__.py │ └── config.py ├── requirements.txt └── test.py ``` </pre>
