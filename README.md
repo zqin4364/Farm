@@ -22,11 +22,11 @@
     │  
     ├── requirements.txt  
  
+## 2.Installation  
+conda create -n farm python==3.10.16
+conda activate farm
+cd FarmEnv
 
-    ##2. Installation
-  conda create -n farm python==3.10.16
-  conda activate farm
+install farm package
+pip install -e
 
-  cd FarmEnv
-  install farm package
-  pip install -e
